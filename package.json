@@ -74,5 +74,19 @@
   },
   "dependencies": {
     "ant-design-vue": "^3.2.15"
-  }
+  },
+  "description": "UI Component library for Mobile Action.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobileaction/action-kit.git"
+  },
+  "keywords": [
+    "ui",
+    "vue3"
+  ],
+  "author": "MobileAction",
+  "bugs": {
+    "url": "https://github.com/mobileaction/action-kit/issues"
+  },
+  "homepage": "https://github.com/mobileaction/action-kit#readme"
 }
